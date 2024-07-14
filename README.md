@@ -1,10 +1,6 @@
 
 # Hi, I'm Sepehr
 
-## About Me
-- 🌱 I’m currently learning **Network Security**
-- 💬 Ask me about **Python, C++, and Network Security**
-
 ## Skills
 ### Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
